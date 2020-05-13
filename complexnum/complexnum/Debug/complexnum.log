@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  complexnum.cpp
+d:\cpiii\projects\complexnum\complexnum\complexnum.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  complexnum.vcxproj -> D:\CPIII\Projects\complexnum\Debug\complexnum.exe
+  complexnum.vcxproj -> D:\CPIII\Projects\complexnum\Debug\complexnum.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+D:\CPIII\Projects\MiltTimeParabola\ConsoleApplication1\ConsoleApplication1.cpp(47,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CPIII\Projects\MiltTimeParabola\ConsoleApplication1\ConsoleApplication1.cpp(49,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\CPIII\Projects\MiltTimeParabola\Debug\ConsoleApplication1.exe

@@ -1,0 +1,5 @@
+﻿  JottoMotto.cpp
+D:\CPIII\Projects\JottoMotto\JottoMotto\Dictionary.h(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CPIII\Projects\JottoMotto\JottoMotto\JottoMotto.cpp(127,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CPIII\Projects\JottoMotto\JottoMotto\JottoMotto.cpp(38,6): warning C4101: 'guesses': unreferenced local variable
+  JottoMotto.vcxproj -> D:\CPIII\Projects\JottoMotto\Debug\JottoMotto.exe
